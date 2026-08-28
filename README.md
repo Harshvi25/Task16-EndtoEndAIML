@@ -72,3 +72,24 @@ The column:
 
 ```text
 Unnamed: 32
+```
+### 🤖 Machine Learning Models
+
+## Three classification algorithms were trained.
+
+## 1. Logistic Regression
+
+A linear classification algorithm used as a baseline model.
+
+## 2. Random Forest
+
+An ensemble learning algorithm that combines multiple decision trees to improve classification performance.
+
+## 3. Support Vector Machine
+
+A supervised learning algorithm that finds a suitable decision boundary between classes.
+
+## 👩‍💻 Author
+Harshvi Patel
+AI/ML Engineer
+
